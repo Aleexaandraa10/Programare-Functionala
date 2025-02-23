@@ -13,7 +13,7 @@ Acest cod conține soluții și implementări avansate pentru o serie de problem
 
 ## Concepte demonstrate
 
-- **Recursivitate avansată** - probleme rezolvate prin recursivitate adâncă și optimizată.
+- **Recursivitate avansată** - probleme rezolvate prin recursivitate în adâncime și optimizată.
 - **Paradigma lazy evaluation** - execuția amânată a calculelor pentru eficiență sporită.
 - **Compoziție și funcții de ordin superior** - folosirea compoziției funcționale pentru rezolvarea problemelor.
 - **Abstractizarea și reutilizarea codului** - utilizarea claselor și instanțelor pentru abstractizarea comportamentului și reutilizarea logicii funcționale.
