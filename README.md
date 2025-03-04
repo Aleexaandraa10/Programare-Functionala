@@ -1,30 +1,28 @@
-# Programare Funcțională în Haskell - Laboratoare Avansate
+# Advanced Functional Programming in Haskell - Labs  
 
-Acest cod conține soluții și implementări avansate pentru o serie de probleme de programare funcțională, rezolvate în limbajul Haskell. Codul este realizat în cadrul materiei **Programare Funcțională** și demonstrează capacitatea de a aplica concepte avansate precum monade, functori, evaluare lazy și recursivitate în profunzime.
+This repository contains solutions and advanced implementations for a series of functional programming problems, solved in Haskell. The code was developed as part of the **Functional Programming** course and demonstrates the ability to apply advanced concepts such as monads, functors, lazy evaluation, and deep recursion.  
 
-## Conținutul proiectului
+## Project Contents  
 
-- **Monade și evaluare lazy** - folosirea monadei `Maybe`, IO, și Reader pentru tratarea efectelor secundare și a calculelor controlate.
-- **Functori și Applicative** - implementarea și utilizarea funcțiilor de tip `fmap`, `pure` și `(<*>)` pentru a demonstra puterea compoziției funcționale.
-- **Evaluarea expresiilor și arborele de evaluare** - definirea de tipuri personalizate pentru expresii matematice și evaluarea acestora folosind arbori de tip abstract.
-- **Probleme de logică și evaluare booleană** - definirea de operatori logici și evaluarea expresiilor logice într-un mediu controlat (tip `Prop`).
-- **Structuri de date și clase customizate** - implementarea de arbori de căutare, vectori, colecții și alte structuri personalizate folosind clase Haskell precum `Collection`, `ArbInfo`, și `GeoOps`.
-- **Transformarea funcțională a listelor** - folosirea funcțiilor de ordine superioară precum `map`, `filter`, `foldr` și `foldl` pentru manipularea datelor și optimizarea calculelor.
+- **Monads and Lazy Evaluation** - Using the `Maybe`, `IO`, and `Reader` monads to handle side effects and controlled computations.  
+- **Functors and Applicative** - Implementing and utilizing functions like `fmap`, `pure`, and `(<*>)` to demonstrate the power of functional composition.  
+- **Expression Evaluation and Evaluation Trees** - Defining custom types for mathematical expressions and evaluating them using abstract syntax trees.  
+- **Logic Problems and Boolean Expression Evaluation** - Defining logical operators and evaluating logical expressions within a controlled environment (type `Prop`).  
+- **Data Structures and Custom Classes** - Implementing search trees, vectors, collections, and other custom structures using Haskell classes such as `Collection`, `ArbInfo`, and `GeoOps`.  
+- **Functional Transformation of Lists** - Using higher-order functions like `map`, `filter`, `foldr`, and `foldl` for data manipulation and computational optimization.  
 
-## Concepte demonstrate
+## Demonstrated Concepts  
 
-- **Recursivitate avansată** - probleme rezolvate prin recursivitate în adâncime și optimizată.
-- **Paradigma lazy evaluation** - execuția amânată a calculelor pentru eficiență sporită.
-- **Compoziție și funcții de ordin superior** - folosirea compoziției funcționale pentru rezolvarea problemelor.
-- **Abstractizarea și reutilizarea codului** - utilizarea claselor și instanțelor pentru abstractizarea comportamentului și reutilizarea logicii funcționale.
-- **Gestionarea efectelor secundare** - folosirea monadelor și a tipurilor precum `IO` pentru a controla efectele secundare și interacțiunea cu utilizatorul.
+- **Advanced Recursion** - Solving problems using deep and optimized recursion.  
+- **Lazy Evaluation Paradigm** - Delayed execution of computations for improved efficiency.  
+- **Composition and Higher-Order Functions** - Utilizing functional composition to solve problems.  
+- **Code Abstraction and Reusability** - Using type classes and instances to abstract behavior and reuse functional logic.  
+- **Managing Side Effects** - Employing monads and types like `IO` to control side effects and user interaction.  
 
-## Scop
+## Purpose  
 
-- **Evaluare funcțională curată**
-- **Manipularea avansată a tipurilor**
-- **Concepute de modularitate și abstractizare în Haskell**
+- **Pure Functional Evaluation**  
+- **Advanced Type Manipulation**  
+- **Modularity and Abstraction Concepts in Haskell**  
 
-Codul poate fi folosit ca o bază de învățare pentru cei care doresc să înțeleagă și să aprofundeze conceptele de programare funcțională aplicată în Haskell. 
-
-
+This code can serve as a learning foundation for those who want to understand and deepen their knowledge of applied functional programming in Haskell.  
